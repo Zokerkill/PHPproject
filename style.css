@@ -1,0 +1,28 @@
+.d1{
+	box-sizing:border-box;
+	background-color: rgb(15, 15, 15);
+	display:block;
+	font-family:Roboto, Helvetica, Arial, sans-serif;
+	font-size:14px;
+	height:54px;
+	line-height:21px;
+	text-size-adjust:100%;
+	width:100%;
+}
+.a1{
+	background-color:rgb(28, 28, 28);
+	box-sizing:border-box;
+	color:rgb(15, 15, 15);
+	display:block;
+	font-family:Roboto, Helvetica, Arial, sans-serif;
+	font-size:14px;
+	height:670.344px;
+	line-height:21px;
+	margin-bottom:20px;
+	padding-bottom:20px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:20px;
+	text-size-adjust:100%;
+	width:100%;
+}
